@@ -1,2 +1,2 @@
 # Java_SpatialIndexProject
-Some Java Codes about Spatial Index,such as 
+This Java Code is about Spatial Index,such as gridindex,R tree and R+ tree.And as I am a java beginners,these codes may be simple and not optimizing.
